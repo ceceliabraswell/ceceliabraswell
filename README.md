@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Cecelia Braswell:
-💻 A Junior Front-end Developer looking to develop my skills and land my dream job.<br/><br>📜 A.S. in Computer & Information Systems and full-stack web developer certification from NuCamp.<br/><br>🎮 I'm currently working on coding the Doodle Jump game using HTML canvas.<br/><br>📧 You can reach me at ceceliabraswell@yahoo.com.<br/><br>🌐 Or check out my [website](https://ceceliabraswell.com/).<br/><br>👩‍💻  I also write a [blog](https://devceceliabraswell.blogspot.com) about my learning journey and my experience with trying to break into the tech world.<br/>
+💻 A Junior Front-end Developer looking to develop my skills and land my dream job.<br/><br>📜 A.S. in Computer & Information Systems and full-stack web developer certification from NuCamp.<br/><br>🎮 I'm currently working on coding the Doodle Jump game using HTML canvas.<br/><br>📧 You can reach me at ceceliabraswell@yahoo.com.<br/><br>🌐 Or check out my [website]([https://ceceliabraswell.com/](https://ceceliabraswell.github.io/portfolio-2/)).<br/><br>👩‍💻  I also write a [blog](https://devceceliabraswell.blogspot.com) about my learning journey and my experience with trying to break into the tech world.<br/>
 
 
 # 💻 Tech Stack:
